@@ -1,5 +1,5 @@
 # 💫 About Me:
-Programador Junior<br>Programador PHP, Java, Lua, C, C++, HTML e Phyton.<br>Busco sempre aprender novas coisas, desbravar o mundo adquirindo conhecimento.<br>
+Programador Junior<br>Programador PHP, Java, MySQL, Lua, C, C++, HTML e Phyton.<br>Busco sempre aprender novas coisas, desbravar o mundo adquirindo conhecimento.<br>
 
 
 ## 🌐 Socials:
